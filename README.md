@@ -1,4 +1,5 @@
 # Python GitLab CLI Utility
+[![Docker Repository on Quay](https://quay.io/repository/savitojs/python-gitlab/status "Docker Repository on Quay")](https://quay.io/repository/savitojs/python-gitlab)
 
 Python based utility to manage GitLab via CLI commands.
 
